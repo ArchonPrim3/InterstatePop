@@ -1,3 +1,3 @@
-# InterstatePop
+# Follow me on [LinkedIn!](https://www.linkedin.com/in/miguel-dominguez-81708925b/)
 Tracking interstate migration data within the U.S., the initial project for 2015 and 2019 can be found [here](https://archonprim3.github.io/InterstatePop/Interstate-Final-Revision-MARKDOWN.html).
-
+If all goes well I will be presenting at the 98th annual conference for the [Western Economic Association International](https://weai.org/conferences/view/13/98th-Annual-Conference) in July. [Here](https://archonprim3.github.io/InterstatePop/WEAI_WORKING_COPY-The_effects_of_NAFTA_on_the_Mexican_Agricultural_and_Industrial_Sectors-Miguel_Dominguez.docx) is a copy of my working paper that needs many improvements to create an adequate submission. 
